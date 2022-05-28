@@ -9,7 +9,10 @@
     <?php
     //Como declarar
     define('ESTADO', 'CASADO');
-     echo ESTADO;
+        echo ESTADO;
+
+    const IDADE = 18;
+        echo IDADE; 
     ?>
 </body>
 </html>
