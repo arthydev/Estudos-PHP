@@ -1,4 +1,6 @@
 <?php 
+    echo 'CARREGANDO...';
+    echo '<br>';
 
     # Sleep  é o tempo que o servidor espera antes de carregar o código
     sleep(1);
@@ -6,6 +8,8 @@
 
     echo 'CARREGOU !';
     echo '<hr>';
+
+    
 
     #     Die
 
