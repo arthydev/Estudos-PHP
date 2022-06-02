@@ -23,6 +23,6 @@
 
     $pessoa -> envelhecer(); # Acessando o metedodo, executa a função pois ela é publica
 
-    $pessoa -> mudando();   # Acessando o metedodo, não executa a função pois ela é privada
+    /*$pessoa -> mudando();   # Acessando o metedodo, não executa a função pois ela é privada*/
 
 ?>
